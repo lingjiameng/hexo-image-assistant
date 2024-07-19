@@ -8,9 +8,10 @@
   },
   "keywords": [
     "hexo",
-    "iamge",
+    "image",
     "asset",
-    "path"
+    "path",
+    "markdown"
   ],
   "author": "ljmeng",
   "license": "MIT",
