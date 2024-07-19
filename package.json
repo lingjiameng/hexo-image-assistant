@@ -1,6 +1,6 @@
 {
   "name": "hexo-image-assistant",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Give asset image in hexo a absolutely path automatically. Extended markdown syntax supports easily specifying image width.",
   "main": "index.js",
   "scripts": {
