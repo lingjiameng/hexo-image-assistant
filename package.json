@@ -1,0 +1,20 @@
+{
+  "name": "hexo-image-assistant",
+  "version": "0.0.6",
+  "description": "Give asset image in hexo a absolutely path automatically. Extended markdown syntax supports easily specifying image width.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "iamge",
+    "asset",
+    "path"
+  ],
+  "author": "ljmeng",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
